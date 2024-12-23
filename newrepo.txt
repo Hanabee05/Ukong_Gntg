@@ -1,0 +1,9 @@
+deb http://xsrv.moratelindo.io/kali kali-rolling main contrib non-free non-free-firmware
+
+deb http://xsrv.moratelindo.io/kali kali-last-snapshot main contrib non-free non-free-firmware
+
+deb http://xsrv.moratelindo.io/kali kali-experimental main contrib non-free non-free-firmware
+
+deb http://xsrv.moratelindo.io/kali kali-bleeding-edge main contrib non-free non-free-firmware
+
+http://xsrv.moratelindo.io/kali-images/README
